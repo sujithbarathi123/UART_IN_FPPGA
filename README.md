@@ -1,2 +1,2 @@
-# UART_IN_FPPGA
+# UART_IN_FPGA
 The UART protocol in FPGA facilitates reliable serial communication between devices using a start bit, data bits, an optional parity bit, and stop bits. It consists of a baud rate generator for timing control, a transmitter for serializing data, and a receiver for data reconstruction. This protocol is commonly used for debugging, data logging, and PC communication due to its simplicity and minimal hardware requirements. Implementing UART in FPGA involves state machines for data handling and clock synchronization, ensuring efficient data transfer.
